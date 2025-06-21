@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA And MySQL**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,React,TailwindCSS,JAVA And MySQL**
 
 - 📫 How to reach me **ayushverma1016@gmail.com**
 
